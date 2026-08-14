@@ -1,0 +1,29 @@
+Source 1:
+This is the test of the first made up source. The weather for today is sunny and tomorrow the weather will be rainy. This is the rest of the garbage of the page that should not show up in the prompt. Here's some more, let's hope this works out. 
+
+Source 2: 
+For the second source the introduction is gonna look different. Weather today will be sunny. Dumb stupid text and stuff that is included in the rest of this. More garbage yes sir don't include this in the response at all.
+
+Source 3:
+Don't use any data from this source at all since it doesn't include keywords. More random garbage to test the bot with. I should not see anything from this at all in the output of the bot. 
+
+Source 4: 
+sports today is the football game between the Lions versus the Bears at 8pm. This last section should include the more in-depth attributes, while not including this. Tomorrow night will show a the basketball game of the Pacers versus the Rockets.
+
+Source 5: 
+This doesn't include anything besides the words Sports and game. This entire paragraph should just get ignored by the output. 
+
+Source 6: 
+The latest news in the financial market is that stocks are doing terrible due to the situation in politics. That being the president of the United States of America. 
+
+Source 7: 
+The newest gaming trend nowadays is the Nintendo D.S. even though it is old as hell.
+
+Source 8: 
+The best math type to learn is algebra and calculus is the worst subject. Geometry is also really bad, but is not as hard as calculus.
+
+Source 9:
+The best way to exercise is by cycling. This includes cardio and allows you to get vitamin C from the Sun. 
+
+Source 10:
+The worst bird to see outside is the sparrow, as the native birds around the area like finches and robins are a lot less harmful to other birds. 

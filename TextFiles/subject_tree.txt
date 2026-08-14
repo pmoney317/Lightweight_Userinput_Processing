@@ -1,0 +1,51 @@
+A.sports; A1.football, A2.basketball, A3.baseball, A4.soccer, A5.hockey, A6.golf, A7.tennis, A8.racing; A11.teams, A12.football_Stadiums; A111.lions, A112.bears, A113.colts, A114.packers; A121.ford_Field, A122.lambeau_Field, A123.lucas_Oil_Stadium
+
+B.weather; B1.cloudy, B2.rainy, B3.sunny, B4.snow, B5.windy, B6.storms, B7.temperature, B8.forecast; B11.cloud_Types, B12.precipitation; B111.cumulus, B112.stratus, B113.cirrus; B121.rain, B122.sleet, B123.hail, B124.snow
+
+C.computer; C1.desktop, C2.laptop, C3.server, C4.phone; C11.dell, C12.hP, C13.custom; C111.optiPlex, C112.xPS; C21.lenovo, C22.chromebook, C23.macBook; C31.supermicro, C32.blade_Server; C41.iPhone, C42.android; C421.samsung, C422.google_Pixel
+
+D.music; D1.classical, D2.hip_hop, D3.rock, D4.country, D5.pop; D11.composers; D111.mozart, D112.beethoven, D113.bach; D21.artists; D211.drake, D212.beyonce, D213.eminem
+
+E.math; E1.algebra, E2.geometry, E3.calculus, E4.statistics; E11.equations; E111.linear, E112.quadratic; E31.calculus_Operations; E311.derivatives, E312.integrals
+
+F.science; F1.physics, F2.chemistry, F3.biology, F4.geology; F11.mechanics; F111.motion, F112.force, F113.energy; F21.elements; F211.hydrogen, F212.oxygen, F213.carbon; F31.life; F311.cells, F312.dNA
+
+G.history; G1.ancient, G2.medieval, G3.modern, G4.world_Wars; G41.war; G411.world_War_I, G412.world_War_II; G421.allies, G422.axis
+
+H.geography; H1.continents, H2.countries, H3.states, H4.cities; H21.north_America; H211.united_States, H212.canada, H213.mexico; H31.uS_States; H311.indiana, H312.texas, H313.california
+
+I.movies; I1.action, I2.comedy, I3.horror, I4.science_Fiction; I11.franchises; I111.marvel, I112.star_Wars, I113.jurassic_Park
+
+J.television; J1.series, J2.documentary, J3.cartoon; J11.streaming; J111.netflix, J112.hulu, J113.disney_Plus
+
+K.books; K1.fiction, K2.nonfiction, K3.fantasy; K31.authors; K311.tolkien, K312.rowling, K313.martin
+
+L.food; L1.fruit, L2.vegetables, L3.meat, L4.dessert; L11.citrus; L111.orange, L112.lemon; L41.desserts; L411.cake, L412.pie, L413.ice_Cream
+
+M.health; M1.exercise, M2.nutrition, M3.medicine; M11.cardio; M111.running, M112.cycling; M21.vitamins; M211.vitamin_A, M212.vitamin_C, M213.vitamin_D
+
+N.finance; N1.banking, N2.stocks, N3.cryptocurrency; N21.stock_Market; N211.nYSE, N212.nASDAQ; N31.coins; N311.bitcoin, N312.ethereum
+
+O.programming; O1.c, O2.cPP, O3.java, O4.python, O5.javaScript, O6.sQL; O31.java_Frameworks; O311.spring, O312.javaFX; O41.python_Libraries; O411.numPy, O412.pandas, O413.tensorFlow
+
+P.gaming; P1.pC, P2.playStation, P3.xbox, P4.nintendo; P11.stores; P111.steam, P112.epic_Games; P41.consoles; P411.switch, P412.switch_2
+
+Q.travel; Q1.hotels, Q2.flights, Q3.trains; Q21.airlines; Q211.delta, Q212.united, Q213.american
+
+R.animals; R1.mammals, R2.birds, R3.fish, R4.reptiles; R11.dogs; R111.golden_Retriever, R112.german_Shepherd; R12.cats; R121.siamese, R122.maine_Coon
+
+S.space; S1.planets, S2.stars, S3.galaxies; S11.solar_System; S111.mercury, S112.venus, S113.earth, S114.mars; S31.galaxy_Types; S311.spiral, S312.elliptical
+
+T.politics; T1.elections, T2.government; T21.uS_Government; T211.congress, T212.senate, T213.house
+
+U.education; U1.schools, U2.colleges, U3.universities; U21.degrees; U211.associate, U212.bachelor, U213.master, U214.doctorate
+
+V.business; V1.marketing, V2.accounting, V3.management; V11.marketing_Types; V111.digital, V112.print, V113.social_Media
+
+W.automotive; W1.cars, W2.trucks, W3.motorcycles; W11.manufacturers; W111.ford, W112.chevrolet, W113.toyota; W1111.mustang, W1112.f150
+
+X.law; X1.criminal, X2.civil, X3.contracts; X11.crimes; X111.theft, X112.fraud, X113.assault
+
+Y.art; Y1.painting, Y2.drawing, Y3.photography; Y11.painting_Styles; Y111.oil, Y112.watercolor, Y113.acrylic
+
+Z.technology; Z1.artificial_Intelligence, Z2.robotics, Z3.networking, Z4.cybersecurity; Z11.machine_Learning; Z111.supervised, Z112.unsupervised, Z113.reinforcement; Z41.cyber_Attacks; Z411.phishing, Z412.malware, Z413.ransomware
